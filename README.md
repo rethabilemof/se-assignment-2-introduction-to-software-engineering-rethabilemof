@@ -179,6 +179,18 @@ Challenges faced in managing software project may include:
 8. Client Expectations
 Software Maintenance:
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+Software maintenance refers to the process of modifying, updating, and enhancing software to ensure it remains fuctional, reliable, and secure throughout its life cycle.
+Types of maintenance activities:
+1. Corrective maintainance: it involves fixing defects or bugs identified during testing or while the software is in use.
+2. Adaptive maintainance: it involves modifying the software to accommodate changes in the environment such as operating system upgrades or hardware chnages.
+3. Perfective maintainance: focuses on enhancing the software by adding new features or improving existing ones to meet evolving user needs.
+4. Preventive maintainance: aims to prevent future problems by making modifications to the software to improve its maintainability, reliability, or performance.
+Maintenance is an essential part of the software life cycle for the following reasons:
+1. Ensuring reliability
+2. Adapting to change
+3. Adressing defects
+4. Enhancing performance
+5. Ensuring security
 Ethical Considerations in Software Engineering:
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
