@@ -192,10 +192,21 @@ Maintenance is an essential part of the software life cycle for the following re
 4. Enhancing performance
 5. Ensuring security
 Ethical Considerations in Software Engineering:
-
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+Software engineering may face various ethical issues, such as privacy violations, biased algorithms, or the misuse of technology for harmful purposes. To ensure adherence to ethical standards, they can:
+1. Stay informed: Keep up-to-date with ethical guidelines and standards in the industry.
+2. Coduct ethical assessments: Regularly evaluate the potential impact of their work on users and society.
+3. Advocate for ethical practices: Encourage discussions within their teams and organizations about ethical considerations.
+4. Transparency: Be transparent about how their software works and its potential consequences.
+5. Seek feedback: Gather input from diverse perspectives to identify and address potential ethical concerns.
+6. Refuse unethical requests: Have the courage to push back against requests or projects that compromise ethical principles.
+7. Continuous learning: Engage in opening education and training on ethics in technology to stay aware of emerging issues and best practise.
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
+REFERENCES
+Hannah Donato (2023). Project Manager Role and Responsibilities for Software Projects. Available from Project-Management.Com (accessed 09 June 2024)
+Joana Almeida (2023) What are software Development Life Cycle Stages and Models. Available from distantjob.com (accessed 09 June 2024)
+Monica Kerry (2023) Understanding the key Difference between software engineering and software developer. available from https://www.linkedin.com/pulse/software-engineering-developer-difference-monica-kerry#:~:text=Software%20engineering%20involves%20a%20more,testing%2C%20and%20deploying%20the%20software (accessed 09 June 2024)
