@@ -111,20 +111,73 @@ Agile is preferred when:
    -Quick delivery of a functional product is essential.
 In summary, the choice between Agile and Waterfall depends on the nature of the project, the stability of requirements, the need for flexibility, and stakeholder involvement.
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+Requirements engineering id the process of identifying, ecliciting, analyzing, specifying, validating, and managing the needs and expectations of stakeholders for a software system.
+Requirement Engineering Process
+1. Feasibility Study
+   The feasibility study mainly concentrates on five mentioned areas below. Among these Economic Feasibility Study is the most important part of the feasibility analysis and the Legal Feasibility Study is less considered feasibility analysis.
+   -Technical Feasibility: Current resources both hardware software along required technology are analyzed/assessed to develop the project project.
+   -Operational Feasibility: degrees of proving service to requirements is analyzed along with how easy the product will be to operate and maintain after deployment.
+   -Economic Feasibility: study cost and benefit of the project are analyzed.
+2. Requiremente Elicitation:is the process of gathering information about the needs and expectations of stakeholders for a software system. This is the first step in the requirements engineering process and it is critical to the success of the software development project.
+3. Requirement Specification:is the process of documenting the requirements identified in the analysis step in a clear, consistent, and unambiguous manner.
+4. Requirement verification and validation:is the process of checking that the requirements for a software system are complete, consistent, and accurate and that they meet the needs and expectation of the stakeholders.
+5. Requirements management:is the proces of analyzing, documenting, tracking, prioritizing, and agreeing on the requirement and controlling the communication with relevant stakeholders.
 Software Design Principles:
-
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
-Testing in Software Engineering:
+Modularity in software design refers to breaking down a system into smaller, manageable,and independent components or modules. Each module focuses on specific aspect of functionality, making the code easier to understand, maintain, and extend.
+Mainatability is improved because changes or updates can be made to individual modules without affecting the entire system. It simplifies debugging and testing as issues can be isolated to specific modules.
+For scalability, modularity allows for easy replication or addition of modules to accommodate increased demand or functionality. It promotes reuse of existing modules, reducing development time and effort when scaling up the system.
 
+Testing in Software Engineering:
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+Software testing encompasses various levels, each serving a specific purpose in ensuring the quality of the software. Here are the commmon levels:
+1. Unit testing: test individual components or modules of the software to ensure each part fuctions correctly in isolation.
+2. Intergration tetsing: tests how well the different modules work together when combined. It validates the interaction between various components.
+3. System testing: evaluates the behaviour of the entire system as a whole. It tests the software in an evironment that closely resembles the production environment.
+4. Acceptance testing: conducted to determine whether the software meets the user's requirements and expectation. It way include alpha and beta tetsing as, well as user acceptance testing.
 Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Software Project Management:
-
+Version control systems are tools used to manage changes to source code, documents, and other files in a collaborative development enviroment. They track modifications made to files over time, allowing developers to revert to previous versions, compare changes, and collaborate seamlessly. Verrsion control is important for keeping track of changes to code, files, and other digital assets.
+Exapmles of popular version control system and their feature:
+1. Git:
+   -Destributed version control system.
+   -Supports branching and merging efficiently.
+   -Fast and lightweight.
+   -Open-source and widely adopted.
+   -Platform: Github, Gitlab, Bitbucket.
+2. Subversion (SVN):
+   - Centralized version control system.
+   - Tracks changes to files and directories over time.
+   - Supports branching and merging, but not as efficiently as Git.
+   - Has a centralized repository model.
+   - Platform: Apache Subversion.
+3. Mercurial:
+   -Distributed version control system.
+   -Supports branching, merging, and distributed development.
+   -Easy to learn and use.
+   -Platform: Bitbucket.
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+A project manager in software is responsible for leading a team of software developers and ensuring that software projects are completed on time, within budget, and to the satisfaction of the stakeholders. They're responsible for planning, executing, and closing projects.
+Key responsibilities in managing software projects include:
+1. Project planning
+2. Resource management
+3. Risk management
+4. Communication
+5. Quality Assurance
+6. Budgeting and Cost Management
+7. Stakeholder Management
+Challenges faced in managing software project may include:
+1. Scope Creep
+2. Resource Constraints
+3. Time Constraints
+4. Technical Challenges
+5. Communication Barriers
+6. Budgetary Pressures
+7. Risk Management
+8. Client Expectations
 Software Maintenance:
-
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 Ethical Considerations in Software Engineering:
 
