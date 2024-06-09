@@ -7,7 +7,7 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
-
+Software engineering is a precise and quantifiable way of designing, developing, and testing the software. It means using engineering techniques in software building so that it is cost-effective, performant, scalable, and adherent to user requirements. Software engineering this area includes activities related to requirements analysis, deisgn, coding, testing and maintenance, and aims at dealing with complexity and improving the quality of software products through well-defined process, methodologies and tools.
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
